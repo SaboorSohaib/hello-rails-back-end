@@ -65,14 +65,10 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
-## 🚀 Live Demo <a name="live-demo"></a>
+<!-- GETTING STARTED -->
+## Front End Repo Link <a name="live-demo"></a>
 
 - <a href="https://github.com/SaboorSohaib/hello-react-front-end" target="_blank">React Application</a>
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- GETTING STARTED -->
-
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
