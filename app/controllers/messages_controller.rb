@@ -1,6 +1,6 @@
 class MessagesController < ApplicationController
   def index
-    message = Message.order('RANDOM()').first
-    render json: message
+    @message = Message.find(Message.pluck(:id).sample)
+    render json: @message
   end
 end
