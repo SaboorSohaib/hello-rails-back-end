@@ -68,7 +68,7 @@
 <!-- LIVE DEMO -->
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- React Application [git@github.com:SaboorSohaib/hello-react-front-end.git]
+- React Application [(git@github.com:SaboorSohaib/hello-react-front-end.git)]
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
